@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<div class="footer">
+<h2 id="about"></h2>
+  <p>هي مجموعه من الفقاريات داخليه الحراره وتتميز باكتسائها بالريش</br>
+  وامتلاكها منقار عديم الاسنان</br>
+  وبوضعها بيوض ذات قشره خارجيه سميكه </p>
+
+  <h2>معلومات مفيده</h2>
+  
+  <ul>
+    <li><a href="mailto:info@example.com">info@exampl.com</a></li>
+  <li><a href="https://mawdoo3.com/"target="_blank">birds.com</a></li>
+  <li><a href="https://ar.m.wikipedia.org/wiki.com/"traget="_blank">birds.com</a> </li>
+  
+
+  </ul>
+  </div>
+</body>
+</html>
